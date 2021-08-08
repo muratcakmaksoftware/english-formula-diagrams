@@ -1,7 +1,7 @@
 ## What is my goal ?
-- My goal, I bring together universal formulas for english.
+- My goal here is bringing close together universal formulas in english.
 - You can change formulas by your language.
-- I know I can a mistake. You can tell me my mistake from issues button.
+- I know I can make mistakes. You can tell my mistakes from issues button.
 
 ## How you change this formulas ?
 - You can download .drawio extention file.
