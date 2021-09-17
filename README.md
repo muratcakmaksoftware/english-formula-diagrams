@@ -8,5 +8,8 @@
 - After, you can open .drawio file this website app.diagrams.net or draw.io
 
 ## All English Formulas
-- `12 English Tenses`
-- `Very soon All Modals`
+- `12 English Tenses` %90
+- `Very soon All Modals` %55
+
+## Contributors
+- `Gwyneth`
