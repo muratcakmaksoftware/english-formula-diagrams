@@ -1,0 +1,54 @@
+Not
+Is not = Isn’t
+Has not = Hasn’t
+Had not = Hadn’t
+Did not = Didn’t
+Would not = Wouldn’t
+Cannot = Can’t
+Could not = Couldn’t
+Have not = Haven’t
+Must not = Mustn’t
+Shall not = Shan’t
+Should not = Shouldn’t
+Was not = Wasn’t
+Were not = Weren’t
+Will not = Won’t
+
+Is
+She is = She’s
+There is = There’s
+He is = He’s
+It is = It’s
+Anne is = Anne’s
+Jimmy is = Jimmy’s
+Who is = Who’s
+
+Am
+I am = I’m
+
+Will
+I will = I’ll
+You will = You’ll
+She will = She’ll
+We will = We’ll
+They will = They’ll
+
+Would
+I would = I’d
+You would = You’d
+He would = He’d
+We would = We’d
+They would = They’d
+
+Have
+I have = I’ve
+You have = You’ve
+We have = We’ve
+They have = They’ve
+He has got = He’s got
+It has happened = It’s happened
+
+Are
+You are = You’re
+They are = They’re
+We are = We’re

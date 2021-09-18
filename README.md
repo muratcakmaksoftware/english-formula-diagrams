@@ -13,6 +13,7 @@
 
 ## Bonus
 - `Storybooks` %30
+- `Helper Kits` %20
 - `Gramer Books` %20
 - `Words` %20
 
