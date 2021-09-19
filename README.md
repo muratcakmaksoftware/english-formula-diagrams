@@ -13,14 +13,13 @@
 
 ## Bonus
 - `Storybooks` %30
+- `Books` %25
 - `Helper Kits` %20
-- `Gramer Books` %20
 - `Words` %20
 
 ## Chat Bots
 - https://www.cleverbot.com/
 - https://replika.ai/ or https://play.google.com/store/apps/details?id=ai.replika.app
-- https://andychatbot.com/ or https://play.google.com/store/apps/details?id=com.pyankoff.andy
 
 ## Social Platform
 - https://discord.gg/english
@@ -44,6 +43,10 @@
 - https://www.youtube.com/c/RuriOhama
 
 ## English Sources
+
+### `Web Sources`
+- https://learnenglish.britishcouncil.org
+- https://learningenglish.voanews.com
 
 ### `Youtube Sources`
 - https://www.youtube.com/c/EnglishwithLucy
