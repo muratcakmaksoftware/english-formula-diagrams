@@ -9,7 +9,8 @@
 
 ## All English Formulas
 - `12 English Tenses` %90
-- `Very soon All Modals` %55
+- `Idioms and patterns` %30
+- `All Modals` %65
 
 ## Bonus
 - `Storybooks` %30
@@ -47,6 +48,8 @@
 ### `Web Sources`
 - https://learnenglish.britishcouncil.org
 - https://learningenglish.voanews.com
+- https://www.usingenglish.com
+- https://www.englishclub.com/
 
 ### `Youtube Sources`
 - https://www.youtube.com/c/EnglishwithLucy
@@ -59,6 +62,11 @@
 - https://dictionary.cambridge.org/
 - https://www.zargan.com
 - https://www.urbandictionary.com/
+
+## Helper Websites
+- https://www.wordhippo.com/
+- https://www.youtube.com/channel/UC7fPdB9IGwWyba2X09K1yNQ
+- https://youglish.com/
 
 ## Contributors
 - `Gwyneth`
