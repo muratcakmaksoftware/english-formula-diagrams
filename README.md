@@ -9,14 +9,14 @@
 
 ## All English Formulas
 - `12 English Tenses` %90
-- `Idioms and patterns` %30
-- `All Modals` %65
+- `All Modals` %70
+- `General` %30
 
 ## Bonus
-- `Storybooks` %30
-- `Books` %25
-- `Helper Kits` %20
-- `Words` %20
+- `Storybooks` %3
+- `Books` %40
+- `Helper Kits` %25
+- `Words` %40
 
 ## Chat Bots
 - https://www.cleverbot.com/
