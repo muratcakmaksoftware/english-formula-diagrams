@@ -19,8 +19,8 @@
 - `Words` %40
 
 ## Chat Bots
-- https://www.cleverbot.com/
 - https://replika.ai/ or https://play.google.com/store/apps/details?id=ai.replika.app
+- https://www.cleverbot.com/
 
 ## Social Platform
 - https://discord.gg/english
@@ -34,14 +34,15 @@
 - https://etkilipratikingilizce.com/
 
 ### `Youtube Sources`
-- https://www.youtube.com/c/ÇilemAkar
-- https://www.youtube.com/c/EtkiliPratikİngilizce
-- https://www.youtube.com/channel/UC3GgF1Mlc400cRzVE-9vsFg
-- https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg
-- https://www.youtube.com/c/ingilizcekonuanlatimi
-- https://www.youtube.com/c/dillendim
-- https://www.youtube.com/c/EnglishWithZack1
-- https://www.youtube.com/c/RuriOhama
+- https://www.youtube.com/c/EtkiliPratikİngilizce - Etkili Pratik İngilizce
+- https://www.youtube.com/channel/UCqt17-JtaqchXgU4fFunz6w - FikirHastası
+- https://www.youtube.com/c/ingilizcekonuanlatimi - İngilizce Konu Anlatımı - Özer Kiraz
+- https://www.youtube.com/c/ÇilemAkar - Çilem Akar
+- https://www.youtube.com/channel/UC3GgF1Mlc400cRzVE-9vsFg - Bahar Şahin
+- https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg - Özkan Çelen
+- https://www.youtube.com/c/dillendim - Dillendim
+- https://www.youtube.com/c/EnglishWithZack1 - English With Zack
+- https://www.youtube.com/c/RuriOhama - Ruri Ohama
 
 ## English Sources
 
@@ -52,10 +53,10 @@
 - https://www.englishclub.com/
 
 ### `Youtube Sources`
-- https://www.youtube.com/c/EnglishwithLucy
-- https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg
-- https://www.youtube.com/channel/UCiLADGxdlggDc14zkO2CVlQ
-- https://www.youtube.com/watch?v=k89GF-i_Eyg&list=PLfFN2W7YMYBSKji3sfXxpNQyyi1lr8OzK
+- https://www.youtube.com/c/EnglishwithLucy - English with Lucy
+- https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg - Learn English with EnglishClass101.com
+- https://www.youtube.com/channel/UCiLADGxdlggDc14zkO2CVlQ - Learn English with English7Levels
+- https://www.youtube.com/watch?v=k89GF-i_Eyg&list=PLfFN2W7YMYBSKji3sfXxpNQyyi1lr8OzK - Christopher Britt
 
 ## Dictionaries
 - https://tureng.com
@@ -67,6 +68,9 @@
 - https://www.wordhippo.com/
 - https://www.youtube.com/channel/UC7fPdB9IGwWyba2X09K1yNQ
 - https://youglish.com/
+- https://readlistenlearn.net/
+- https://elllo.org/
+- https://lyricstraining.com/ and app 
 
 ## Contributors
 - `Gwyneth`
