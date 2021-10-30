@@ -10,10 +10,10 @@
 ## All English Formulas
 - `12 English Tenses` %90
 - `All Modals` %70
-- `General` %30
+- `General` %40
 
 ## Bonus
-- `Storybooks` %3
+- `Storybooks` %10
 - `Books` %40
 - `Helper Kits` %25
 - `Words` %40
@@ -53,6 +53,7 @@
 - https://www.englishclub.com/
 
 ### `Youtube Sources`
+- https://www.youtube.com/channel/UC_XZoWueXyWuwVG4B_AEmmg - Arnel's Everyday English
 - https://www.youtube.com/c/EnglishwithLucy - English with Lucy
 - https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg - Learn English with EnglishClass101.com
 - https://www.youtube.com/channel/UCiLADGxdlggDc14zkO2CVlQ - Learn English with English7Levels
