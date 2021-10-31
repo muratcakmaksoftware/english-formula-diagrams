@@ -72,6 +72,7 @@
 - https://readlistenlearn.net/
 - https://elllo.org/
 - https://lyricstraining.com/ and app 
+- https://www.newsinlevels.com/
 
 ## Contributors
 - `Gwyneth`
