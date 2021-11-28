@@ -10,7 +10,7 @@
 ## All English Formulas
 - `12 English Tenses` %90
 - `All Modals` %70
-- `General` %40
+- `General` %50
 
 ## Bonus
 - `Storybooks` %10
