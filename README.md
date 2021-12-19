@@ -32,6 +32,7 @@
 - https://dersimizingilizce.com
 - https://blog.cambly.com/tr/
 - https://etkilipratikingilizce.com/
+- https://www.ef.com.tr/ingilizce-ogreniyorum/ingilizce-gramer/
 
 ### `Youtube Sources`
 - https://www.youtube.com/c/EtkiliPratikİngilizce - Etkili Pratik İngilizce
