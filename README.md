@@ -77,3 +77,11 @@
 
 ## Contributors
 - `Gwyneth`
+
+## Preview
+
+### 12 Tenses in English Grammar - (to be revised) 
+![12tenses](outputs/12-english-tenses-formula.jpg)
+
+### General - (to be revised)
+![general](outputs/general.jpg)
