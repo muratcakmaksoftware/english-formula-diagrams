@@ -8,7 +8,7 @@
 - After, you can open .drawio file this website app.diagrams.net or draw.io
 
 ## All English Formulas
-- `12 English Tenses` %90
+- `12 English Tenses` %92
 - `All Modals` %70
 - `General` %50
 
