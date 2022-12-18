@@ -33,6 +33,8 @@
 - https://blog.cambly.com/tr/
 - https://etkilipratikingilizce.com/
 - https://www.ef.com.tr/ingilizce-ogreniyorum/ingilizce-gramer/
+- https://nasilokunur.net/
+- https://www.okunusu.com/
 
 ### `Youtube Sources`
 - https://www.youtube.com/c/EtkiliPratikİngilizce - Etkili Pratik İngilizce
