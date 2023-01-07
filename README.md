@@ -43,6 +43,7 @@
 - https://www.youtube.com/c/ÇilemAkar - Çilem Akar
 - https://www.youtube.com/channel/UC3GgF1Mlc400cRzVE-9vsFg - Bahar Şahin
 - https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg - Özkan Çelen
+- https://www.youtube.com/playlist?list=PLxX2m2Np79VdHxkH0s43UTp9CfwBg_NmE - Haluk Tatar
 - https://www.youtube.com/c/dillendim - Dillendim
 - https://www.youtube.com/c/EnglishWithZack1 - English With Zack
 - https://www.youtube.com/c/RuriOhama - Ruri Ohama
