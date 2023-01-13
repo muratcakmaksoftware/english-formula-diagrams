@@ -1,11 +1,11 @@
 ## What is my goal ?
-- My goal here is bringing close together universal formulas in english.
-- You can change formulas by your language.
-- I know I can make mistakes. You can tell my mistakes from issues button.
+- My goal here is to put together universal English formulas.
+- You can change the formulas to match your language.
+- I know I can make mistakes. You can tell my mistakes by clicking the "Issues" button.
 
-## How you change this formulas ?
-- You can download .drawio extention file.
-- After, you can open .drawio file this website app.diagrams.net or draw.io
+## How can you change these formulas ?
+- You can download the general.drawio file [here.](general.drawio)
+- Next, you can open the general.drawio on this website app.diagrams.net or draw.io
 
 ## All English Formulas
 - `12 English Tenses` %92
@@ -24,6 +24,11 @@
 
 ## Social Platform
 - https://discord.gg/english
+
+## Books
+- ### Comics
+- https://comicbookplus.com/
+- https://view-comic.com/
 
 ## Turkish -> English Sources For Turkish People
 
@@ -73,6 +78,8 @@
 - https://quillbot.com/grammar-check
 - https://textranch.com/
 - https://play.aidungeon.io
+- https://hemingwayapp.com/
+- https://www.matecat.com/
 - https://www.wordhippo.com/
 - https://www.youtube.com/channel/UC7fPdB9IGwWyba2X09K1yNQ
 - https://youglish.com/
