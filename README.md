@@ -8,9 +8,9 @@
 - Next, you can open the general.drawio on this website app.diagrams.net or draw.io
 
 ## All English Formulas
-- `12 English Tenses` %92
-- `All Modals` %70
-- `General` %50
+- `12 English Tenses` %95
+- `All Modals` %80
+- `General` %60
 
 ## Bonus
 - `Storybooks` %10
@@ -33,6 +33,8 @@
 ## Turkish -> English Sources For Turkish People
 
 ### `Web Sources`
+- https://evdeingilizcem.com/
+- https://www.remzihoca.com/
 - https://ingilizcebankasi.com
 - https://dersimizingilizce.com
 - https://blog.cambly.com/tr/
