@@ -18,9 +18,10 @@
 - `Helper Kits` %25
 - `Words` %40
 
-## Chat Bots
+## AI (Chat Bots)
+- https://play.aidungeon.io
 - https://replika.ai/ or https://play.google.com/store/apps/details?id=ai.replika.app
-- https://www.cleverbot.com/
+- https://www.cleverbot.com
 
 ## Social Platform
 - https://discord.gg/english
@@ -80,7 +81,6 @@
 ## Helper Websites
 - https://quillbot.com/grammar-check
 - https://textranch.com/
-- https://play.aidungeon.io
 - https://hemingwayapp.com/
 - https://www.matecat.com/
 - https://www.wordhippo.com/
