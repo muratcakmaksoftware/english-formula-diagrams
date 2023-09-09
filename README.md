@@ -46,6 +46,7 @@
 
 ### `Youtube Sources`
 - https://www.youtube.com/@bahromhudayar - Bahrom Hudayar
+- https://www.youtube.com/@tanercagli - Taner Çağlı
 - https://www.youtube.com/c/EtkiliPratikİngilizce - Etkili Pratik İngilizce
 - https://www.youtube.com/channel/UCqt17-JtaqchXgU4fFunz6w - FikirHastası
 - https://www.youtube.com/c/ingilizcekonuanlatimi - İngilizce Konu Anlatımı - Özer Kiraz
