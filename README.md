@@ -10,7 +10,7 @@
 ## All English Formulas
 - `12 English Tenses` %95
 - `All Modals` %80
-- `General` %60
+- `General` %68
 
 ## Bonus
 - `Storybooks` %10
@@ -47,9 +47,9 @@
 ### `Youtube Sources`
 - https://www.youtube.com/@bahromhudayar - Bahrom Hudayar
 - https://www.youtube.com/@tanercagli - Taner Çağlı
+- https://www.youtube.com/c/ingilizcekonuanlatimi - İngilizce Konu Anlatımı - Özer Kiraz
 - https://www.youtube.com/c/EtkiliPratikİngilizce - Etkili Pratik İngilizce
 - https://www.youtube.com/channel/UCqt17-JtaqchXgU4fFunz6w - FikirHastası
-- https://www.youtube.com/c/ingilizcekonuanlatimi - İngilizce Konu Anlatımı - Özer Kiraz
 - https://www.youtube.com/c/ÇilemAkar - Çilem Akar
 - https://www.youtube.com/channel/UC3GgF1Mlc400cRzVE-9vsFg - Bahar Şahin
 - https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg - Özkan Çelen
