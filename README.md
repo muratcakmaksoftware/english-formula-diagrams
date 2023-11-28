@@ -10,7 +10,7 @@
 ## All English Formulas
 - `12 English Tenses` %95
 - `All Modals` %80
-- `General` %68
+- `General` %70
 
 ## Bonus
 - `Storybooks` %10
@@ -34,15 +34,16 @@
 ## Turkish -> English Sources For Turkish People
 
 ### `Web Sources`
-- https://evdeingilizcem.com/
-- https://www.remzihoca.com/
+- https://evdeingilizcem.com
+- https://www.remzihoca.com
 - https://ingilizcebankasi.com
 - https://dersimizingilizce.com
 - https://blog.cambly.com/tr/
-- https://etkilipratikingilizce.com/
-- https://www.ef.com.tr/ingilizce-ogreniyorum/ingilizce-gramer/
-- https://nasilokunur.net/
-- https://www.okunusu.com/
+- https://etkilipratikingilizce.com
+- https://www.ef.com.tr/ingilizce-ogreniyorum/ingilizce-gramer
+- https://nasilokunur.net
+- https://www.okunusu.com
+- https://davutsaydam.com.tr
 
 ### `Youtube Sources`
 - https://www.youtube.com/@bahromhudayar - Bahrom Hudayar
@@ -61,6 +62,7 @@
 ## English Sources
 
 ### `Web Sources`
+- https://englishgrammarhere.com
 - https://learnenglish.britishcouncil.org
 - https://learningenglish.voanews.com
 - https://www.usingenglish.com
@@ -68,18 +70,20 @@
 
 ### `Youtube Sources`
 - https://www.youtube.com/channel/UC_XZoWueXyWuwVG4B_AEmmg - Arnel's Everyday English
-- https://www.youtube.com/c/EnglishwithLucy - English with Lucy
 - https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg - Learn English with EnglishClass101.com
 - https://www.youtube.com/channel/UCiLADGxdlggDc14zkO2CVlQ - Learn English with English7Levels
 - https://www.youtube.com/watch?v=k89GF-i_Eyg&list=PLfFN2W7YMYBSKji3sfXxpNQyyi1lr8OzK - Christopher Britt
+- https://www.youtube.com/watch?v=MLEns628no4  - KendrasLanguage
+- https://www.youtube.com/c/EnglishwithLucy - English with Lucy
 
 ## Dictionaries
+- https://dictionary.cambridge.org
 - https://tureng.com
-- https://dictionary.cambridge.org/
 - https://www.zargan.com
-- https://www.urbandictionary.com/
+- https://www.urbandictionary.com
 
 ## Helper Websites
+- https://engoo.com/app/daily-news
 - https://quillbot.com/grammar-check
 - https://textranch.com/
 - https://hemingwayapp.com/
