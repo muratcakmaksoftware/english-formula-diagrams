@@ -8,14 +8,14 @@
 - Next, you can open the general.drawio on this website app.diagrams.net or draw.io
 
 ## All English Formulas
-- `12 English Tenses` %95
-- `All Modals` %80
-- `General` %70
+- `12 English Tenses` %98
+- `All Modals` %97
+- `General` %80
 
 ## Bonus
-- `Storybooks` %10
-- `Books` %40
-- `Helper Kits` %25
+- `Storybooks` %80
+- `Books` %50
+- `Helper Kits` %30
 - `Words` %40
 
 ## AI (Chat Bots)
@@ -66,7 +66,8 @@
 - https://learnenglish.britishcouncil.org
 - https://learningenglish.voanews.com
 - https://www.usingenglish.com
-- https://www.englishclub.com/
+- https://www.englishclub.com
+- https://langeek.co
 
 ### `Youtube Sources`
 - https://www.youtube.com/channel/UC_XZoWueXyWuwVG4B_AEmmg - Arnel's Everyday English
