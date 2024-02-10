@@ -107,5 +107,8 @@
 ### 12 Tenses in English Grammar - (to be revised) 
 ![12tenses](outputs/12-english-tenses-formula.jpg)
 
-### General - (to be revised)
-![general](outputs/general.jpg)
+### Formulas - (to be revised)
+![general](outputs/formulas.jpg)
+
+### Lessons - (to be revised)
+![general](outputs/lessons.jpg)
