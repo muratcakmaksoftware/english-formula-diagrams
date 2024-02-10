@@ -25,6 +25,8 @@
 
 ## Social Platform
 - https://discord.gg/english
+- https://discord.gg/enghub
+- https://www.free4talk.com
 
 ## Books
 - ### Comics
