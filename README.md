@@ -19,6 +19,7 @@
 - `Words` %40
 
 ## AI (Chat Bots)
+- https://character.ai
 - https://play.aidungeon.io
 - https://replika.ai/ or https://play.google.com/store/apps/details?id=ai.replika.app
 - https://www.cleverbot.com
